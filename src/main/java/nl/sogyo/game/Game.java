@@ -10,6 +10,6 @@ public class Game {
     }
 
     public Game() {
-        System.out.println("Hello Worlds!");
+        System.out.println("Hello World!");
     }
 }
